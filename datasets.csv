@@ -1,0 +1,33 @@
+aussda.dataset_id;aussda.dataverse_id;aussda.doi;aussda.privateurl;aussda.publish;aussda.published;dataverse.license;dataverse.termsOfAccess;dataverse.termsOfUse;dataverse.otherId;dataverse.title;dataverse.subtitle;dataverse.alternativeTitle;dataverse.series;dataverse.notesText;dataverse.author;dataverse.dsDescription;dataverse.subject;dataverse.keywordValue;dataverse.topicClassification;dataverse.language;dataverse.grantNumber;dataverse.dateOfCollection;dataverse.kindOfData;dataverse.dataSources;dataverse.accessToSources;dataverse.alternativeURL;dataverse.characteristicOfSources;dataverse.dateOfDeposit;dataverse.depositor;dataverse.distributionDate;dataverse.otherReferences;dataverse.productionDate;dataverse.productionPlace;dataverse.contributor;dataverse.relatedDatasets;dataverse.relatedMaterial;dataverse.datasetContact;dataverse.distributor;dataverse.producer;dataverse.publication;dataverse.software;dataverse.timePeriodCovered;dataverse.geographicUnit;dataverse.geographicBoundingBox;dataverse.geographicCoverage;dataverse.actionsToMinimizeLoss;dataverse.cleaningOperations;dataverse.collectionMode;dataverse.collectorTraining;dataverse.controlOperations;dataverse.dataCollectionSituation;dataverse.dataCollector;dataverse.datasetLevelErrorNotes;dataverse.deviationsFromSampleDesign;dataverse.frequencyOfDataCollection;dataverse.otherDataAppraisal;dataverse.socialScienceNotes;dataverse.researchInstrument;dataverse.responseRate;dataverse.samplingErrorEstimates;dataverse.samplingProcedure;dataverse.unitOfAnalysis;dataverse.universe;dataverse.timeMethod;dataverse.weighting
+serial;numeric (dataset_id) or string (alias);string;string;string;string;string;string;string;"String
+JSON object [{""otherIdAgency"": ""VALUE"", ""otherIdValue"": ""VALUE""}]";string;string;string;"string
+JSON object
+[{""seriesName"": ""VALUE"", ""seriesInformation"": ""VALUE""}]";string;"String
+JSON object [{""authorName"": ""VALUE"", ""authorAffiliation"": ""VALUE"", ""authorIdentifierScheme"": ""VALUE"", ""authorIdentifier"": ""VALUE""}]";"String
+JSON object [{""dsDescriptionValue"": ""VALUE"", ""dsDescriptionDate"": ""VALUE""}]";"String, JSON object
+[""VALUE"", ""VALUE""]";"String,
+JSON object [{""keywordValue"": ""VALUE"", ""keywordVocabulary"": ""VALUE"", ""keywordVocabularyURI"": ""VALUE""}]";"String,
+JSON object [{""topicClassValue"": ""VALUE"", ""topicClassVocab"": ""VALUE"", ""topicClassVocabURI"": ""VALUE""}]";"String, JSON object
+[""VALUE"", ""VALUE""]";"String
+JSON object [{""grantNumberAgency"": ""VALUE"", ""grantNumberValue"": ""VALUE""}]";"String,
+JSON object [{""dateOfCollectionStart"": ""VALUE"", ""dateOfCollectionEnd"": ""VALUE""}]
+DateOfCollectionStart & dateOfCollectionEnd → String, YYYY-MM-DD ";"string,
+JSON object [""VALUE"", ""VALUE""]";"string,
+JSON object [""VALUE"", ""VALUE""]";string;"string; URL";string;"string; YYYY-MM-DD";string;"string; YYYY-MM-DD";"string,
+JSON object [""VALUE"", ""VALUE""]";"string; YYYY-MM-DD";string;"String,
+JSON object [{""contributorType"": ""VALUE"", ""contributorName"": ""VALUE""}]";"string,
+JSON object [""VALUE"", ""VALUE""]";"string,
+JSON object [""VALUE"", ""VALUE""]";"String,
+JSON object [{""datasetContactName"": ""VALUE"", ""datasetContactAffiliation"": ""VALUE"", ""datasetContactEmail"": ""VALUE""}]";"String,
+JSON object [{""distributorName"": ""VALUE"", ""distributorAffiliation"": ""VALUE"", ""distributorAbbreviation"": ""VALUE"", ""distributorURL"": ""VALUE"", ""distributorLogoURL"": ""VALUE""}]";"String,
+JSON object [{""producerName"": ""VALUE"", ""producerAffiliation"": ""VALUE"", ""producerAbbreviation"": ""VALUE"", ""producerURL"": ""VALUE"", ""producerLogoURL"": ""VALUE""}]";"String,
+JSON object [{""publicationCitation"": ""VALUE"", ""publicationIDType"": ""VALUE"", ""publicationIDNumber"": ""VALUE"", ""publicationURL"": ""VALUE""}]";"String,
+JSON object [{""softwareName"": ""VALUE"", ""softwareVersion"": ""VALUE""}]";"String,
+JSON object [{""timePeriodCoveredStart"": ""VALUE"", ""timePeriodCoveredEnd"": ""VALUE""}]";"string,
+JSON object [""VALUE"", ""VALUE""]";"String,
+JSON object [{""westLongitude"": ""VALUE"", ""eastLongitude"": ""VALUE"", ""northLongitude"": ""VALUE"", ""southLongitude"": ""VALUE""}]";"String,
+JSON object [{""country"": ""VALUE"", ""state"": ""VALUE"", ""city"": ""VALUE"", ""otherGeographicCoverage"": ""VALUE""}]";string;string;string;string;string;string;string;string;string;string;string;"String
+JSON object [{""socialScienceNotesType"": ""VALUE"", ""socialScienceNotesSubject"": ""VALUE"", ""socialScienceNotesText"": ""VALUE""}]";string;string;string;string;"string,
+JSON object [""VALUE"", ""VALUE""]";"string,
+JSON object [""VALUE"", ""VALUE""]";string;string
+aussda;aussda;aussda;aussda;aussda;aussda;dataverse;dataverse;dataverse;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.geospatial;dataverse.geospatial;dataverse.geospatial;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience

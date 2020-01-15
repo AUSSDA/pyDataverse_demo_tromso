@@ -1,0 +1,4 @@
+aussda.datafile_id;aussda.dataset_id;aussda.filename;dataverse.description;dataverse.categories;dataverse.restrict;dataverse.title;dataverse.directoryLabel;dataverse.datafile_id;alma.title;alma.pages;alma.year
+serial;numeric;string;string;"String,
+JSON object [""VALUE"", ""VALUE""]
+Labels: ""Documentation"", ""Data"", ""Code""";boolean;string;string;string;string;??;??
