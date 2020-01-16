@@ -1,5 +1,5 @@
 aussda.datafile_id;aussda.dataset_id;aussda.filename;dataverse.description;dataverse.categories;dataverse.restrict;dataverse.title;dataverse.directoryLabel;dataverse.datafile_id;alma.title;alma.pages;alma.year
-1;1;20001_ta_de_v1_0.tsv;Core data file – 5 Variables, 20 Observations ;"[""data""]";;;;;;;
-2;1;20001_do_de_v1_0.pdf;Documentation: Method report and Codebook ;"[""documentation""]";;;;;;;
-3;2;20002_ta_de_v1_0.csv;Core data file – 6 Variables, 22 Observations ;"[""data""]";;;;;;;
-4;2;20002_do_de_v1_0.pdf;Documentation: Method report and Codebook ;"[""documentation""]";;;;;;;
+1;1;20001_ta_de_v1_0.tsv;Core data file – 5 Variables, 20 Observations ;"[""Data""]";;;;;;;
+2;1;20001_do_de_v1_0.pdf;Documentation: Method report and Codebook ;"[""Documentation""]";;;;;;;
+3;2;20002_ta_de_v1_0.csv;Core data file – 6 Variables, 22 Observations ;"[""Data""]";;;;;;;
+4;2;20002_do_de_v1_0.pdf;Documentation: Method report and Codebook ;"[""Documentation""]";;;;;;;
