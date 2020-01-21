@@ -1,2 +1,6 @@
 notes.md
 *.ipynb_checkpoints/
+*.odp
+*.pptx
+data.ods
+__pycache__/
