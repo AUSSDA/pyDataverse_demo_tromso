@@ -24,4 +24,4 @@ This 30min session during the [European Dataverse Workshop at Tromso](https://si
 7. Upload Datafiles to Dataverse
 8. Publish Datasets
 9. Delete Datasets (optional)
-
+10. Copy Jupyter Notebook to localhost
