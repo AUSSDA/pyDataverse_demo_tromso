@@ -1,6 +1,6 @@
-# pyDataverse Workshop Tromso
+# pyDataverse Demo Tromso
 
-This 30min session during the [European Dataverse Workshop at Tromso](https://site.uit.no/dataverseno/european-dataverse-workshop-2020/) shows how to use the Python module [pyDataverse](https://github.com/AUSSDA/pyDataverse) for data migrations into Dataverse. It consists of a short [presentation](https://github.com/AUSSDA/pyDataverse_workshop_tromso/blob/master/presentation.pdf) and a hands-on part with a [Jupyter Notebook](https://github.com/AUSSDA/pyDataverse_workshop_tromso/blob/master/pydataverse.ipynb).
+This 30min session during the [European Dataverse Workshop at Tromso](https://site.uit.no/dataverseno/european-dataverse-workshop-2020/) shows how to use the Python module [pyDataverse](https://github.com/AUSSDA/pyDataverse) for data migrations into Dataverse. It consists of a short [presentation](https://github.com/AUSSDA/pyDataverse_demo_tromso/blob/master/presentation.pdf) and a demo with a [Jupyter Notebook](https://github.com/AUSSDA/pyDataverse_workshop_tromso/blob/master/pydataverse.ipynb).
 
 * Date: 24th January 2020
 * Location: [UiT - The Arctic University of Norway](https://en.uit.no/startsida), Tromsø
