@@ -14,7 +14,7 @@ def parse_dataset_keys(dataset, data, terms_filename):
     ds_tmp['termsOfAccess'] = read_file(terms_filename)
     for key, val in dataset.items():
         if not val == '':
-            if key == 'aussda.dataset_id':
+            if key == 'organization.dataset_id':
                 ds_id = val
             elif key == 'dataverse.title':
                 ds_tmp['title'] = val
@@ -60,12 +60,12 @@ def import_datafile(datafile, data):
         if not val == '':
             if key == 'dataverse.description':
                 df_tmp['description'] = val
-            elif key == 'aussda.filename':
+            elif key == 'organization.filename':
                 df_tmp['filename'] = val
-            elif key == 'aussda.datafile_id':
+            elif key == 'organization.datafile_id':
                 df_tmp['datafile_id'] = val
                 df_id = val
-            elif key == 'aussda.dataset_id':
+            elif key == 'organization.dataset_id':
                 ds_id = val
                 df_tmp['dataset_id'] = ds_id
             elif key == 'dataverse.categories':
