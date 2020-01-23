@@ -15,13 +15,12 @@ This 30min session during the [European Dataverse Workshop at Tromso](https://si
 
 **Overview**
 
-1. Get a short introduction into pyDataverse
-2. Prepare the user environment
-3. Introduce the pyDataverse CSV templates
-4. Import Datasets metadata
+1. Short introduction into pyDataverse (DONE)
+2. Setup the user environment
+3. Introduce to pyDataverse CSV templates
+4. Import Datasets metadata into pyDataverse
 5. Upload Datasets to Dataverse
-6. Import Datafiles metadata
+6. Import Datafiles metadata into pyDataverse
 7. Upload Datafiles to Dataverse
-8. Publish Datasets
-9. Delete Datasets (optional)
-10. Copy Jupyter Notebook to localhost
+8. Delete Datasets (optional)
+9. Copy Jupyter Notebook to localhost (optional)
