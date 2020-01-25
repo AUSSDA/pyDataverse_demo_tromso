@@ -23,4 +23,4 @@ This 30min session during the [European Dataverse Workshop at Tromso](https://si
 6. Import Datafiles metadata into pyDataverse
 7. Upload Datafiles to Dataverse
 8. Delete Datasets (optional)
-9. Copy Jupyter Notebook to localhost (optional)
+
